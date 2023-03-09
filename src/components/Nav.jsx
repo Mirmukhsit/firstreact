@@ -1,11 +1,13 @@
 import React from 'react'
 
-function Nav() {
+const title = "Group 4";
+export function Nav({title,children}) {
+   
   return (
-    <div>Navbar
-        
+    <div>
+      {title}
+      {children} 
     </div>
   )
-}
 
-export default Nav
+  }
