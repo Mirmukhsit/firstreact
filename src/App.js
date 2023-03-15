@@ -15,6 +15,7 @@ function App() {
     <div style={{padding:"20px"}}>
       <h1>App</h1>
       <Cards datas={data}/>
+      sdasd
       <Container datas={data}/>
     </div>
   )
