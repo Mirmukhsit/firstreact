@@ -89,8 +89,3 @@ function Map() {
   
   
   export default Map;
-
-//   salkjldk
-//   salkjldk
-//   salkjldk
-//   salkjldk
